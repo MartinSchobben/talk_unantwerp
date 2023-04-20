@@ -50,7 +50,7 @@ knitr::write_bib(pkgs, "packages.bib", prefix = "")
   Data analysis can be stimulated by giving the right tools to the students: open source data analysis platforms.
 </div>
 
-# Educational tools
+# Communication tools
 
 ## Oceanexplorer
 
