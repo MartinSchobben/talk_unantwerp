@@ -36,14 +36,13 @@ knitr::write_bib(pkgs, "packages.bib", prefix = "")
 
 **What I have done so far:**
 
- - Work with several programming languages, code designs, and DevOps concepts
+ - Work with several programming languages, code designs, and DevOps
  - Organizer UU code club, off/online courses in data analysis with R
 
 **What I like to do in the future:**
 
 - More effectively communicate results of geochemical models
 - Integration of model output with other aspects of the BAM project
-- An analysis of the effectiveness of digital tools
 - Make results accessible for a large audience
 
 <div class="notes">
