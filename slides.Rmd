@@ -1,5 +1,5 @@
 ---
-title: "Virtual Ocean Learning"
+title: "Geochemical modelling - BAM!"
 author: | 
   |Martin Schobben
   |Vienna University of Technology
@@ -7,7 +7,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   ioslides_presentation:
     css: styles/fairelabs.css
-    logo: images/uu-logo-en.svg
+    logo: images/unantwerp_logo.jpeg
     widescreen: TRUE
     incremental: FALSE
 bibliography: ["packages.bib", "lit.bib"]
@@ -31,19 +31,20 @@ knitr::write_bib(pkgs, "packages.bib", prefix = "")
 
 **Why:**
 
- - Data analysis under-appreciated in (under)graduate curriculum
- - Stimulate inductive learning
+ - Knowledge of the toolchain and "best practices" for better results
+ - Data analysis and visualization under-appreciated
 
 **What I have done so far:**
 
- - Organizer UU code club
- - Off/online courses in data analysis with R
+ - Work with several programming languages, code designs, and DevOps concepts
+ - Organizer UU code club, off/online courses in data analysis with R
 
 **What I like to do in the future:**
 
-- Map the shortcomings in digital literacy among students
-- Collect best practices on how to improve digital literacy in courses
-- An analysis of the effectiveness of digital tools in class
+- More effectively communicate results of geochemical models
+- Integration of model output with other aspects of the BAM project
+- An analysis of the effectiveness of digital tools
+- Make results accessible for a large audience
 
 <div class="notes">
   Data analysis can be stimulated by giving the right tools to the students: open source data analysis platforms.
@@ -57,11 +58,6 @@ Sampling the ocean with the NOAA Oceanexplorer
 
 <iframe src="https://utrecht-university.shinyapps.io/oceanexplorer/"></iframe>
 
-## Oceanexplorer and Digital Literacy
-
-- Non-programmer: graphical user interface
-- Beginning programmer: hybrid graphical-programming interface (low code platform)
-- Advanced programmer: R package
 
 # Data Management
 
